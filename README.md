@@ -1,4 +1,4 @@
-# DSCI 551 Final Project  
+# DSCI 551 Final Project
 PostgreSQL Indexing and Query Execution Analysis
 
 ## Project Overview
@@ -40,9 +40,10 @@ Note: Make sure PostgreSQL server is running before executing the script.
 ## Dataset
 The dataset is synthetic and generated using SQL:
 - 20 usernames
-- 5000 match data
+- 5000 match records
 - scores between ~60–100
 - dates distributed across ~90 days
+- Dates follow a simple repeating pattern due to how the synthetic data is generated.
 
 ## Key Focus
 - Sequential Scan vs Bitmap Index Scan
