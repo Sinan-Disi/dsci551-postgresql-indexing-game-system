@@ -1,6 +1,7 @@
 -- =====================================================
--- DSCI 551 PROJECT MIDTERM CHECKPOINT
+-- DSCI 551 FINAL PROJECT
 -- PostgreSQL Online Game Player Match History System
+-- Small Dataset Version
 -- =====================================================
 
 -- Cleanup to rerun everything from scratch
