@@ -21,7 +21,7 @@ The application stores player information and match records, then supports opera
 Install psycopg2 with:
 
 ```bash
-pip install psycopg2
+pip install psycopg2-binary
 ```
 
 ## Setup Instructions
